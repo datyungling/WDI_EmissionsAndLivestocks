@@ -1,0 +1,2 @@
+Dataset downloaded from: https://www.kaggle.com/worldbank/world-development-indicators
+Some files from the dataset is not included because it's too large, which includes the Indicators.csv, database.sqlite, and Footnotes.csv.
